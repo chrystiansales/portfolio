@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b5b1b4c-8b7f-4fd6-99df-11f2ad5ffdfe" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2QAEwPu40jytfLYXD42fsB8LDFb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.laravel-idea.search-composer-json&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/63062321253/OneDrive/Documentos/HOME-CURSOS/HTML-CSS/Portfolio&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrador\OneDrive\Documentos\HOME-CURSOS\HTML-CSS\Portfolio\estilos" />
+      <recent name="C:\Users\Administrador\OneDrive\Documentos\HOME-CURSOS\HTML-CSS\Portfolio" />
+      <recent name="C:\Users\Administrador\OneDrive\Documentos\HOME-CURSOS\HTML-CSS\Portfolio\css" />
+      <recent name="C:\Portifolio\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b5b1b4c-8b7f-4fd6-99df-11f2ad5ffdfe" name="Changes" comment="" />
+      <created>1684788223836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684788223836</updated>
+      <workItem from="1684788225527" duration="4145000" />
+      <workItem from="1684795063769" duration="807000" />
+      <workItem from="1684797916182" duration="6284000" />
+      <workItem from="1684809905098" duration="165000" />
+      <workItem from="1684810115791" duration="49000" />
+      <workItem from="1684810313872" duration="3275000" />
+      <workItem from="1684814225378" duration="3053000" />
+      <workItem from="1684837545927" duration="61000" />
+      <workItem from="1684837692960" duration="676000" />
+      <workItem from="1684841270538" duration="82000" />
+      <workItem from="1684868148837" duration="651000" />
+      <workItem from="1684880073386" duration="2940000" />
+      <workItem from="1684920255908" duration="9208000" />
+      <workItem from="1684974003619" duration="2201000" />
+      <workItem from="1684976651129" duration="30000" />
+      <workItem from="1684976707791" duration="5153000" />
+      <workItem from="1685081554608" duration="171000" />
+      <workItem from="1685081750497" duration="607000" />
+      <workItem from="1685187183610" duration="741000" />
+      <workItem from="1685191940154" duration="3585000" />
+      <workItem from="1685397894211" duration="1226000" />
+      <workItem from="1685404148268" duration="33000" />
+      <workItem from="1685404205256" duration="2602000" />
+      <workItem from="1685492770989" duration="2098000" />
+      <workItem from="1685597808073" duration="14000" />
+      <workItem from="1685985816493" duration="816000" />
+      <workItem from="1685986904932" duration="1043000" />
+      <workItem from="1686005030568" duration="36000" />
+      <workItem from="1686005098914" duration="141000" />
+      <workItem from="1686005770194" duration="715000" />
+      <workItem from="1686049376352" duration="49000" />
+      <workItem from="1686052889633" duration="55000" />
+      <workItem from="1686647583832" duration="80000" />
+      <workItem from="1686647694279" duration="1517000" />
+      <workItem from="1686819068019" duration="108000" />
+      <workItem from="1686819201516" duration="4937000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
