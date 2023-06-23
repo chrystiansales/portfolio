@@ -20,7 +20,7 @@ body{
     color: var(--cor-secundaria);
 }
 .cabecalho{
-    padding: 2% 0% 0% 15%;
+    padding: 2% 15%;
 }
 .cabecalho__menu{
     display: flex;
@@ -82,7 +82,7 @@ body{
     border-radius: 8px;
     font-size: 1.5rem;
     font-weight: 600;
-    padding: 21.5px 0;
+    padding: 22px 0;
     text-decoration: none;
     color: var(--cor-secundaria);
     font-family: var(--fonte-secundaria);
@@ -91,7 +91,7 @@ body{
     background-color: var(--cor-hover);
 }
 .apresentacao__imagem{
-    width: 50%;
+    width: 40%;
 }
 .rodape{
     color: var(--cor-primaria);
